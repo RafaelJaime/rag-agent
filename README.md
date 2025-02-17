@@ -7,3 +7,5 @@
 Take a look to [an example](https://drive.google.com/file/d/1a7nv_WX2OAHpFroZLlky3JsFAJurPViN/view?usp=sharing).
 
 [Document with responses to two questions](Project5.pdf)
+
+[Trazas de helicone](HeliconeTraces.csv)
